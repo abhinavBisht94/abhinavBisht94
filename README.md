@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi👋, I am Abhinav
+
+I am a Software engineer who is passionate about learning new technologies, full-stack developer with a specialization in MERN stack.
+Some Technology I enjpoy working with are React | JavaScript | CSS | HTML 
+
 
 <!--
 **abhinavBisht94/abhinavBisht94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
