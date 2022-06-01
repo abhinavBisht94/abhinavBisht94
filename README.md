@@ -7,6 +7,8 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 
 🌱 I’m currently learning: MERN stack
 
+🔭 Portfolio: https://abhinav-bisht-portfolio.netlify.app/
+
 My Socials :
 
 <a href="https://www.linkedin.com/in/abhinav-bisht-1012"> <img style="width: 4%" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653668349~hmac=e6facb503867cef0d19e97515057caf7" alt="LinkedIn" /> </a>
@@ -16,13 +18,17 @@ I am a gamer too so you may find me on:
 
 <a href="https://discordapp.com/users/432924416830210048"> <img style="width: 4%" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335279.png?token=exp=1653669558~hmac=814595d8e7cc40c9f642978215254612" alt="Discord Icon" /> </a>
 <a href=""> <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/3/3782.png" alt="Steam Icon" /> </a>
-<a href=""> <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" alt="Dota 2 icon" /> </a>
-<a href=""> <img style="width: 4%" src="https://i.ibb.co/yyMwGzj/pngwing-com.png" alt="War Thunder" /> </a>
+
 
 
 
 
 <!--
+
+<a href=""> <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" alt="Dota 2 icon" /> </a>
+<a href=""> <img style="width: 4%" src="https://i.ibb.co/yyMwGzj/pngwing-com.png" alt="War Thunder" /> </a>
+
+
 **abhinavBisht94/abhinavBisht94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href=""> <img style="width: 3%" src="" alt="" /> </a>
