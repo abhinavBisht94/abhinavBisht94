@@ -11,6 +11,7 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 
 <br/>
 <p>Skills : </p>
+<div style="display: flex; justify-content: space-around; width: 100%; margin-top:0">
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
@@ -20,8 +21,6 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
   <img style="width: 7%" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" />
   <img style="width: 7%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
-<div style="display: flex; justify-content: space-around; width: 100%">
-  
 </div>
 
 <br/>
