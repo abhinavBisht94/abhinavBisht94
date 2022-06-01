@@ -30,17 +30,17 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 <br/>
 
 <br/>
-### Blogs posts
+<h3>Blogs posts</h3>
 <p align="left">
 <a href="https://medium.com/@abhinav805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhinav805" height="30" width="40" /></a>
 </p>
 
 <br/>
-### Profile Views
+<h3>Profile Views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavbisht94&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbisht94" /> </p>
 
 <br/>
-#### When I am not coding I am gaming on:
+<h3>When I am not coding I am gaming on:</h3>
 <a href="https://discordapp.com/users/432924416830210048"> <img style="width: 4%" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335279.png?token=exp=1653669558~hmac=814595d8e7cc40c9f642978215254612" alt="Discord Icon" /> </a>
 <a href=""> <img style="width: 4%" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png" alt="Steam Icon" /> </a>
 
