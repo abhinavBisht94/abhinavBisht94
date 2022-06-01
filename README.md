@@ -12,13 +12,10 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 <p>Skills : </p>
 
 <div style="display: flex">
-    <img
-      style="width: 4%"
-      src="https://cdn-icons-png.flaticon.com/512/888/888859.png"
-      alt="HTML"
-    />
-      <p>HTML</p>
-  </div>
+<div style="display: block">
+    <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
+    <p>HTML</p>
+</div>
     
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
@@ -29,6 +26,7 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
   <img style="width: 4%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/2080/2080844.png" alt="DS & ALgo" />
+</div>
 
 My Socials :
 
