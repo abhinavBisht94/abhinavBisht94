@@ -17,7 +17,8 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
     style="width: 4%"
     src="https://cdn-icons-png.flaticon.com/512/888/888859.png"
     alt="HTML"
-  /><label>HTML</label>
+  />
+    <p>HTML</p>
 </div>
   
 <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
