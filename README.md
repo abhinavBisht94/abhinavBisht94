@@ -9,7 +9,7 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 
 🔭 Portfolio: https://abhinav-bisht-portfolio.netlify.app/
 
-Skills : 
+<p>Skills : </p>
 <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
 <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
 <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
