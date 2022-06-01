@@ -21,7 +21,6 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
   <img style="width: 4%" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" />
   <img style="width: 4%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
-  <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/2080/2080844.png" alt="DS & ALgo" />
 </div>
 
 My Socials :
