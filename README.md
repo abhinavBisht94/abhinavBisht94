@@ -39,7 +39,7 @@ My Socials :
 
 #### When I am not coding I am gaming on:
 <a href="https://discordapp.com/users/432924416830210048"> <img style="width: 4%" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335279.png?token=exp=1653669558~hmac=814595d8e7cc40c9f642978215254612" alt="Discord Icon" /> </a>
-<a href=""> <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/3/3782.png" alt="Steam Icon" /> </a>
+<a href=""> <img style="width: 4%" src="[https://cdn-icons-png.flaticon.com/512/3/3782.png](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png)" alt="Steam Icon" /> </a>
 
 
 
