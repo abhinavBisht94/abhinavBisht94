@@ -17,9 +17,9 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="React" />
   <img style="width: 5%" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" />
-  <img style="width: 5%" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Node JS" />
+  <img style="width: 6%" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Node JS" />
   <img style="width: 7%" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" />
-  <img style="width: 5%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
+  <img style="width: 7%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
   <img style="width: 5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
 </div>
 
