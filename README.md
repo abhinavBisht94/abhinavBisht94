@@ -12,15 +12,15 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 <p>Skills : </p>
 
 <div style="display: flex; justify-content: space-around; width: 100%">
-  <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
-  <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
-  <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
-  <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="React" />
-  <img style="width: 4%" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" />
-  <img style="width: 4%" src="https://i.ibb.co/n8spVvK/pngegg.png" alt="Node JS" />
-  <img style="width: 4%" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" />
-  <img style="width: 4%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
-  <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
+  <img style="width: 6%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
+  <img style="width: 6%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
+  <img style="width: 6%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
+  <img style="width: 6%" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="React" />
+  <img style="width: 6%" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" />
+  <img style="width: 6%" src="https://i.ibb.co/n8spVvK/pngegg.png" alt="Node JS" />
+  <img style="width: 6%" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" />
+  <img style="width: 6%" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
+  <img style="width: 6%" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
 </div>
 
 My Socials :
