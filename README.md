@@ -11,7 +11,7 @@ Some Technology I enjpoy working with are React | JavaScript | CSS | HTML
 
 <p>Skills : </p>
 
-<div  style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-around; width: 100%">
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
   <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
@@ -45,19 +45,7 @@ I am a gamer too so you may find me on:
 <a href=""> <img style="width: 4%" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" alt="Dota 2 icon" /> </a>
 <a href=""> <img style="width: 4%" src="https://i.ibb.co/yyMwGzj/pngwing-com.png" alt="War Thunder" /> </a>
 
-
-**abhinavBisht94/abhinavBisht94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href=""> <img style="width: 3%" src="" alt="" /> </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 -->
