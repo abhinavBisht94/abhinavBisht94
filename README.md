@@ -1,7 +1,7 @@
 # Hi👋, I am Abhinav
 
 I am a Software engineer who is passionate about learning new technologies, full-stack developer with a specialization in MERN stack.
-Some Technology I enjpoy working with are React | JavaScript | CSS | HTML 
+Some Technology I enjoy working with are React | JavaScript | CSS | HTML 
 
 📫 How to reach me: abhinav805@gmail.com
 
