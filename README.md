@@ -24,8 +24,8 @@ Some Technology I enjoy working with are React | JavaScript | CSS | HTML
 </div>
 
 <h3>My Socials :</h3>
-<a href="https://www.linkedin.com/in/abhinav-bisht-1012" target="_blank" > <img height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1653668349~hmac=e6facb503867cef0d19e97515057caf7" alt="LinkedIn" /> </a>
-<a href="https://twitter.com/abhinav805" target="_blank" > <img height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1653669169~hmac=9d4c107ba069004ef7b224e60c4a95b2" alt="Twitter" /> </a>
+<a href="https://www.linkedin.com/in/abhinav-bisht-1012" target="_blank" > <img height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/linkedin-1024.png" alt="LinkedIn" /> </a>
+<a href="https://twitter.com/abhinav805" target="_blank" > <img height="50" width="50" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" alt="Twitter" /> </a>
 <br/>
 
 <h3>Blogs posts</h3>
@@ -37,7 +37,7 @@ Some Technology I enjoy working with are React | JavaScript | CSS | HTML
 <p align="left" target="_blank" > <img src="https://komarev.com/ghpvc/?username=abhinavbisht94&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbisht94" /> </p>
 
 <h3>When I am not coding you can find me on:</h3>
-<a href="https://discordapp.com/users/432924416830210048" target="_blank" > <img height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335279.png?token=exp=1653669558~hmac=814595d8e7cc40c9f642978215254612" alt="Discord target="_blank"Icon" /> </a>
+<a href="" target="_blank" > <img height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335279.png?token=exp=1653669558~hmac=814595d8e7cc40c9f642978215254612" alt="Discord target="_blank"Icon" /> </a>
 <a href="" target="_blank"> <img height="50" width="50" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png" alt="Steam Icon" /> </a>
 
 
