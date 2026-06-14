@@ -36,9 +36,9 @@ Some Technology I enjoy working with are React | JavaScript | CSS | HTML
 <h3>Profile Views</h3>
 <p align="left" target="_blank" > <img src="https://komarev.com/ghpvc/?username=abhinavbisht94&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavbisht94" /> </p>
 
-<h3>When I am not coding you can find me on:</h3>
+<!-- <h3>When I am not coding you can find me on:</h3>
 <a href="https://discordapp.com/users/432924416830210048" target="_blank" > <img height="50" width="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-1024.png" alt="Discord target="_blank"Icon" /> </a>
-<a href="https://steamcommunity.com/profiles/76561198035140580/" target="_blank"> <img height="50" width="50" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png" alt="Steam Icon" /> </a>
+<a href="https://steamcommunity.com/profiles/76561198035140580/" target="_blank"> <img height="50" width="50" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/steam-icon.png" alt="Steam Icon" /> </a> -->
 
 
 
