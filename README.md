@@ -12,15 +12,16 @@ Some Technology I enjoy working with are React | JavaScript | CSS | HTML
 <br/>
 <h3>Skills : </h3>
 <div style="display: flex; justify-content: space-around; width: 100%; margin-top:0">
+  <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="React" />
+  <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
+  <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
   <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="HTML" />
   <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="CSS" />
-  <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" />
-  <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="React" />
   <img height="50" width="50" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" />
-  <img height="50" width="50" src="https://en.wikipedia.org/wiki/File:Node.js_logo.svg" alt="Node JS" />
-  <img height="50" width="50" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" />
-  <img height="50" width="50" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" />
-  <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" />
+  <!-- <img height="50" width="50" src="https://en.wikipedia.org/wiki/File:Node.js_logo.svg" alt="Node JS" /> -->
+  <!-- <img height="50" width="50" src="https://www.mementotech.in/assets/images/icons/express.png" alt="Express JS" /> -->
+  <!-- <img height="50" width="50" src="https://img.icons8.com/color/452/mongodb.png" alt="Mango DB" /> -->
+  <img height="50" width="50" src="[https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg)" alt="MUI" />
 </div>
 
 <h3>My Socials :</h3>
